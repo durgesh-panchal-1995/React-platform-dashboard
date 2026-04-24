@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-platform-dashboard/static/css/main.052bbe70.css",
+    "main.js": "/react-platform-dashboard/static/js/main.f6c40ef3.js",
+    "static/js/453.cf4dcaef.chunk.js": "/react-platform-dashboard/static/js/453.cf4dcaef.chunk.js",
+    "index.html": "/react-platform-dashboard/index.html",
+    "main.052bbe70.css.map": "/react-platform-dashboard/static/css/main.052bbe70.css.map",
+    "main.f6c40ef3.js.map": "/react-platform-dashboard/static/js/main.f6c40ef3.js.map",
+    "453.cf4dcaef.chunk.js.map": "/react-platform-dashboard/static/js/453.cf4dcaef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052bbe70.css",
+    "static/js/main.f6c40ef3.js"
+  ]
+}
